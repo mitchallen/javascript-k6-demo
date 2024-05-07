@@ -19,7 +19,7 @@ make test
 
 ## Cleanup
 
-* Removed **report.json**
+* Removes **report.json**
 
 ```sh
 make clean
