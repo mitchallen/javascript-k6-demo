@@ -13,6 +13,6 @@ help:
 	@echo "  test       Run the performance test"
 	@echo "  clean      Remove report files"
 
-.PHONY: test report html-report clean help
+.PHONY: test clean help
 
 .DEFAULT_GOAL = help
